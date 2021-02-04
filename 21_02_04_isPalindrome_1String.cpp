@@ -1,3 +1,5 @@
+//Một xâu được gọi là palindrome nếu viết xuôi hay viết ngược xâu đó đều cho ra kết quả giống nhau
+
 #include <iostream>
 #include <string.h>
 using namespace std;
